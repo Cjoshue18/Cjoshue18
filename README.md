@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=520&lines=Building+Software+that+feel+alive.;Microsoft+Ecosystem+Enthusiast.;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cjoshue18/Cjoshue18/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## Tech Stack
 
 ### General Technologies
