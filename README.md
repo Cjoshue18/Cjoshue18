@@ -30,6 +30,5 @@
   <a href="https://linkedin.com/in/joshue-correa-giron-416927203/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
----
-
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF&section=footer&reversal=true"/>
